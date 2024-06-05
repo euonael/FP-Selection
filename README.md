@@ -22,7 +22,3 @@ Este é um projeto de um site de mostruário de carros com animação, sombreame
 
 1. Clone este repositório em sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
-
-## Contribuindo
-
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, por favor, abra uma issue ou envie um pull request.
