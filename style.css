@@ -37,7 +37,7 @@ header {
 }
 
 section {
-    background-image: radial-gradient(#470964, #791fd3);
+    background-image: radial-gradient(#5981ec, #001ea1);
     height: 100vh;
     width: 100vw;
     position: relative;
@@ -110,7 +110,7 @@ section {
                     height: 35px;
                     width: 120px;
                     text-transform: uppercase;
-                    border: 2px solid #791fd3;
+                    border: 2px solid #001ea1;
                     background-color: #beff1b;
                     color: #000;
                     cursor: pointer;
